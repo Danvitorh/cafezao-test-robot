@@ -1,0 +1,7 @@
+results/
+node_modules/
+__pycache__/
+.venv/
+*.pyc
+browser/
+.env
